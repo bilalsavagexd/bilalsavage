@@ -7,6 +7,6 @@ I have great interest in full-stack development, machine learning, cybersecurity
 * Frameworks/Libraries: `Flask` `TensorFlow` `PyTorch` `OpenCV` `Keras` `REST API`
 * Developer Tools: `Linux` `Git`
 
-## Get in Touch! 📫
+## 📫 Get in Touch!
 * Email me at: muhammadbilalsvg@gmail.com
 * Connect with me on LinkedIn: [linkedin.com/in/muhammadbilalsvg/](https://www.linkedin.com/in/muhammadbilalsvg/)
