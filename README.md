@@ -1,6 +1,6 @@
 <a href="">
     <img src="Banner.png" alt="Website">
 </a>
-# Welcome to my GitHub page! I'm Bilal 👋
-Hey there! I'm a **Cyber Security** student at the [**GIKI**](https://giki.edu.pk/). I'm seeking 2024/2025 internship opportunities!
+<h1>Welcome to my GitHub page! I'm Bilal 👋</h1>
+<p>Hey there! I'm a <b>Cyber Security</b> student at <b>Ghulam Ihsaq Khan Institute of Science & Technology</b>. I'm seeking 2024/2025 internship opportunities!</p>
 
