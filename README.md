@@ -1,12 +1,6 @@
-# Hi There! I'm Bilal 👋
-I'm a Computer Science student at the Ghulam Ishaq Khan Institute of Sciences & Tech. searching for Summer 2024 internship opportunities.
-I have great interest in full-stack development, machine learning, cybersecurity, and everything in between.
+<a href="">
+    <img src="Banner.png" alt="Website">
+</a>
+# Welcome to my GitHub page! I'm Bilal 👋
+Hey there! I'm a **Cyber Security** student at the [**GIKI**](https://giki.edu.pk/). I'm seeking 2024/2025 internship opportunities!
 
-## 🔧 Technologies
-* Languages: `Python` `C/C++` `Javascript` 
-* Frameworks/Libraries: `TensorFlow` `Flask` `React` `Matplotlib` `Pandas` `Scikit Learn`
-* Developer Tools: `Linux` `Git`
-
-## 📫 Get in Touch!
-* Email me at: muhammadbilalsvg@gmail.com
-* Connect with me on LinkedIn: [linkedin.com/in/muhammadbilalsvg/](https://www.linkedin.com/in/muhammadbilalsvg/)
