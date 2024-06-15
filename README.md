@@ -16,6 +16,7 @@
 <h2>Technologies 🔧</h2>
 <ul>
     <li>Tools: <code>Nmap</code> <code>Wireshark</code>
+    <li>SIEM: <code>Splunk</code>
     <li>Languages: <code>Python</code> <code>C/C++</code> <code>SQL</code> <code>Bash</code></li>
     <li>Developer Tools: <code>Linux</code> <code>Git</code> <code>Docker</code> <code>MongoDB</code> <code>PostgreSQL</code> <code>SQLite</code></li>
 </ul>
